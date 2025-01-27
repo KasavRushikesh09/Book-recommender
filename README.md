@@ -57,7 +57,7 @@ The purpose of a recommendation system basically is to search for content that w
 This is a streamlit web application that can recommend various kinds of similar books based on an user interest.
 here is a demo,
 
-* [Click here to run it live on server](https://book-recommendation45.herokuapp.com/)
+* [Click here to run it live on server](https://book-recommender-1-v7ny.onrender.com/)
 
 
 # Demo:
@@ -93,7 +93,7 @@ here is a demo,
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Books-Recommender-System-Using-Machine-Learning
+(https://github.com/KasavRushikesh09/Book-recommender)
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -125,9 +125,9 @@ streamlit run app.py
 
 
 ```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
+Author: Rushikesh kasav
+software developer/Data Scientist
+Email: rushikeshkasav1@gmail.com
 
 ```
 
